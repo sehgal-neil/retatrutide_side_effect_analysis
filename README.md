@@ -1,9 +1,10 @@
-# Analysis Code: Self-Reported Symptoms Among Reddit Users Taking Retatrutide
+# Analysis Code: Self-Reported Side Effects Among Reddit Users Taking Unapproved Retatrutide
 
 This repository contains release code for:
 
-> Self-Reported Symptoms Among Reddit Users Taking Nonapproved Retatrutide
-> Sehgal NKRS, Shaw Tronieri J, Ungar L, Guntuku SC.
+> Self-Reported Side Effects Among Reddit Users Taking Unapproved Retatrutide
+>
+> Neil K. R. Sehgal, ME; Jena Shaw Tronieri, PhD; Benjamin Rader, PhD; Lyle Ungar, PhD; Sharath Chandra Guntuku, PhD.
 
 ## Overview
 
