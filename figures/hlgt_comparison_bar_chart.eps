@@ -1,0 +1,325 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%DocumentNeededResources: font Helvetica
+%%+ font Helvetica-Bold
+%%+ font Helvetica-Oblique
+%%+ font Helvetica-BoldOblique
+%%+ font Symbol
+%%Title: R Graphics Output
+%%Creator: R Software
+%%Pages: (atend)
+%%BoundingBox: 0 0 864 504
+%%EndComments
+%%BeginProlog
+/bp  { gs sRGB gs } def
+% begin .ps.prolog
+/gs  { gsave } bind def
+/gr  { grestore } bind def
+/ep  { showpage gr gr } bind def
+/m   { moveto } bind def
+/l  { rlineto } bind def
+/np  { newpath } bind def
+/cp  { closepath } bind def
+/f   { fill } bind def
+/o   { stroke } bind def
+/c   { newpath 0 360 arc } bind def
+/r   { 4 2 roll moveto 1 copy 3 -1 roll exch 0 exch rlineto 0 rlineto -1 mul 0 exch rlineto closepath } bind def
+/p1  { stroke } bind def
+/p2  { gsave bg fill grestore newpath } bind def
+/p3  { gsave bg fill grestore stroke } bind def
+/p6  { gsave bg eofill grestore newpath } bind def
+/p7  { gsave bg eofill grestore stroke } bind def
+/t   { 5 -2 roll moveto gsave rotate
+       1 index stringwidth pop
+       mul neg 0 rmoveto show grestore } bind def
+/ta  { 4 -2 roll moveto gsave rotate show } bind def
+/tb  { 2 -1 roll 0 rmoveto show } bind def
+/cl  { grestore gsave newpath 3 index 3 index moveto 1 index
+       4 -1 roll lineto  exch 1 index lineto lineto
+       closepath clip newpath } bind def
+/rgb { setrgbcolor } bind def
+/s   { scalefont setfont } bind def
+% end   .ps.prolog
+/sRGB { [ /CIEBasedABC
+          << /DecodeLMN
+               [ { dup 0.03928 le
+                        {12.92321 div}
+                        {0.055 add 1.055 div 2.4 exp }
+                     ifelse
+                 } bind dup dup
+               ]
+             /MatrixLMN [0.412457 0.212673 0.019334
+                         0.357576 0.715152 0.119192
+                         0.180437 0.072175 0.950301]
+             /WhitePoint [0.9505 1.0 1.0890]
+           >>
+         ] setcolorspace } bind def
+/srgb { setcolor } bind def
+%%IncludeResource: font Helvetica
+/Helvetica findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font1 exch definefont pop
+%%IncludeResource: font Helvetica-Bold
+/Helvetica-Bold findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font2 exch definefont pop
+%%IncludeResource: font Helvetica-Oblique
+/Helvetica-Oblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font3 exch definefont pop
+%%IncludeResource: font Helvetica-BoldOblique
+/Helvetica-BoldOblique findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  /Encoding ISOLatin1Encoding def
+  currentdict
+  end
+/Font4 exch definefont pop
+%%IncludeResource: font Symbol
+/Symbol findfont
+dup length dict begin
+  {1 index /FID ne {def} {pop pop} ifelse} forall
+  currentdict
+  end
+/Font5 exch definefont pop
+%%EndProlog
+%%Page: 1 1
+bp
+0.00 0.00 864.00 504.00 cl
+/bg { 0 0.4471 0.6980 srgb } def
+100.80 144.00 24.83 183.11 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+125.63 144.00 24.83 136.22 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+175.28 144.00 24.83 143.31 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+200.11 144.00 24.83 72.92 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+249.77 144.00 24.83 120.77 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+274.59 144.00 24.83 275.48 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+324.25 144.00 24.83 71.20 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+349.08 144.00 24.83 61.78 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+398.73 144.00 24.83 67.91 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+423.56 144.00 24.83 148.88 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+473.21 144.00 24.83 57.48 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+498.04 144.00 24.83 17.22 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+547.70 144.00 24.83 49.02 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+572.52 144.00 24.83 19.75 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+622.18 144.00 24.83 41.17 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+647.01 144.00 24.83 0.00 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+696.66 144.00 24.83 34.84 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+721.49 144.00 24.83 11.65 r p2
+/bg { 0 0.4471 0.6980 srgb } def
+771.14 144.00 24.83 33.57 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+795.97 144.00 24.83 17.22 r p2
+/Font2 findfont 12 s
+0 0 0 srgb
+313.43 478.09 (HLGT Symptom Gr) 0 ta
+-0.240 (oups Discussed b) tb
+-0.240 (y Red) tb
+-0.120 (dit User) tb
+-0.180 (s) tb gr
+/Font1 findfont 12 s
+25.92 209.05 (Users with symptom ter) 90 ta
+0.300 (m/group) tb
+-0.420 (, %) tb gr
+0.00 0.00 864.00 504.00 cl
+0 0 0 srgb
+0.75 setlinewidth
+[] 0 setdash
+1 setlinecap
+1 setlinejoin
+10.00 setmiterlimit
+np
+72.00 144.00 m
+0 303.84 l
+o
+np
+72.00 144.00 m
+-7.20 0 l
+o
+np
+72.00 194.64 m
+-7.20 0 l
+o
+np
+72.00 245.28 m
+-7.20 0 l
+o
+np
+72.00 295.92 m
+-7.20 0 l
+o
+np
+72.00 346.56 m
+-7.20 0 l
+o
+np
+72.00 397.20 m
+-7.20 0 l
+o
+np
+72.00 447.84 m
+-7.20 0 l
+o
+/Font1 findfont 11 s
+57.60 140.05 (0) 1 0 t
+57.60 190.69 (10) 1 0 t
+57.60 241.33 (20) 1 0 t
+57.60 291.97 (30) 1 0 t
+57.60 342.61 (40) 1 0 t
+57.60 393.25 (50) 1 0 t
+57.60 443.89 (60) 1 0 t
+np
+72.00 460.80 m
+0 -316.80 l
+777.60 0 l
+o
+72.00 144.00 849.60 460.80 cl
+0.8784 0.8784 0.8784 srgb
+0.75 setlinewidth
+[] 0 setdash
+1 setlinecap
+1 setlinejoin
+10.00 setmiterlimit
+np
+72.00 144.00 m
+777.60 0 l
+o
+np
+72.00 194.64 m
+777.60 0 l
+o
+np
+72.00 245.28 m
+777.60 0 l
+o
+np
+72.00 295.92 m
+777.60 0 l
+o
+np
+72.00 346.56 m
+777.60 0 l
+o
+np
+72.00 397.20 m
+777.60 0 l
+o
+np
+72.00 447.84 m
+777.60 0 l
+o
+0.00 0.00 864.00 504.00 cl
+/Font1 findfont 8 s
+0 0 0 srgb
+131.37 78.48 (Gener) 90 ta
+-0.080 (al system) tb gr
+141.16 134.50 (disorders NEC) 1 90 t
+205.85 134.50 (Appetite and) 1 90 t
+215.65 107.82 (gener) 90 ta
+-0.080 (al) tb gr
+225.44 99.82 (n) 90 ta
+-0.080 (utr) tb
+0.120 (itional) tb gr
+235.23 134.50 (disorders) 1 90 t
+280.34 134.50 (Gastrointestinal) 1 90 t
+290.13 134.50 (signs and) 1 90 t
+299.92 134.50 (symptoms) 1 90 t
+354.82 134.50 (Neurological) 1 90 t
+364.61 134.50 (disorders NEC) 1 90 t
+429.30 134.50 (Gastrointestinal) 1 90 t
+439.09 134.50 (motility and) 1 90 t
+448.89 93.14 (def) 90 ta
+-0.240 (aecation) tb gr
+458.68 134.50 (conditions) 1 90 t
+503.79 134.50 (Muscle disorders) 1 90 t
+578.27 134.50 (Sleep disorders) 1 90 t
+588.06 134.50 (and disturbances) 1 90 t
+652.75 134.50 (Cardiac and) 1 90 t
+662.54 104.71 (v) 90 ta
+-0.200 (ascular) tb gr
+672.33 86.03 (in) 90 ta
+-0.160 (v) tb
+-0.200 (estigations) tb gr
+682.13 87.38 (\(e) 90 ta
+-0.240 (xcl enzyme) tb gr
+691.92 134.50 (tests\)) 1 90 t
+727.23 134.50 (Mood disorders) 1 90 t
+737.03 134.50 (and disturbances) 1 90 t
+746.82 134.50 (NEC) 1 90 t
+801.72 82.92 (Epider) 90 ta
+0.200 (mal and) tb gr
+811.51 71.81 (der) 90 ta
+0.200 (mal conditions) tb gr
+72.00 144.00 849.60 460.80 cl
+/bg { 0 0.4471 0.6980 srgb } def
+713.44 450.43 7.78 -6.48 r p2
+/bg { 0.8353 0.3686 0 srgb } def
+713.44 436.18 7.78 -6.48 r p2
+/Font1 findfont 11 s
+0 0 0 srgb
+729.97 443.24 (Retatr) 0 ta
+0.165 (utide) tb gr
+729.97 428.99 (Semaglutide/tirz) 0 ta
+-0.165 (epatide) tb gr
+/Font1 findfont 7 s
+115.61 333.45 (36.2) 0 90 t
+140.44 286.56 (26.9) 0 90 t
+190.09 293.65 (28.3) 0 90 t
+214.98 223.26 (14.4) 0 90 t
+264.57 271.11 (23.9) 0 90 t
+289.40 425.81 (54.4) 0 90 t
+339.12 221.53 (14.1) 0 90 t
+363.95 212.12 (12.2) 0 90 t
+413.54 218.24 (13.4) 0 90 t
+438.37 299.22 (29.4) 0 90 t
+488.02 207.81 (11.3) 0 90 t
+512.85 167.55 (3.4) 0 90 t
+562.50 199.35 (9.7) 0 90 t
+587.33 170.09 (3.9) 0 90 t
+636.99 191.51 (8.1) 0 90 t
+661.81 150.34 (<0.5) 0 90 t
+711.47 185.18 (6.9) 0 90 t
+736.30 161.98 (2.3) 0 90 t
+785.95 183.91 (6.6) 0 90 t
+810.78 167.55 (3.4) 0 90 t
+0.00 0.00 864.00 504.00 cl
+/Font1 findfont 9 s
+0 0 0 srgb
+270.58 7.20 (T) 0 ta
+-1.080 (op retatr) tb
+0.135 (utide HLGTs after combining appetite-related PTs; ordered b) tb
+-0.180 (y retatr) tb
+0.135 (utide percentage) tb
+-0.135 (.) tb gr
+59.04 73.44 833.76 444.96 cl
+ep
+%%Trailer
+%%Pages: 1
+%%EOF

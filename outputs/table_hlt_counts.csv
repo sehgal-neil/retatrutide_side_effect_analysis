@@ -1,0 +1,454 @@
+hlt_code,n_users,hlt_term,percent_users
+10003022,1826,Appetite disorders,23.34
+10003550,1436,Asthenic conditions,18.36
+10018072,1243,General signs and symptoms NEC,15.89
+10028817,1042,Nausea and vomiting symptoms,13.32
+10068759,853,Feelings and sensations NEC,10.9
+10017933,670,Gastrointestinal atonic and hypomotility disorders NEC,8.56
+10028326,631,Muscle related signs and symptoms NEC,8.07
+10013510,547,Disturbances in initiating and maintaining sleep,6.99
+10053103,502,Heart rate and pulse investigations,6.42
+10071941,490,Physical examination procedures and organ system status,6.26
+10018067,421,General nutritional disorders NEC,5.38
+10014556,404,Emotional and mood disturbances NEC,5.16
+10016770,403,"Flatulence, bloating and distension",5.15
+10043409,387,Therapeutic and nontherapeutic responses,4.95
+10013949,383,Dyspeptic signs and symptoms,4.9
+10012424,380,Dermal and epidermal conditions NEC,4.86
+10033788,359,Paraesthesias and dysaesthesias,4.59
+10040021,353,Sensory abnormalities NEC,4.51
+10002869,350,Anxiety symptoms,4.47
+10012736,346,Diarrhoea (excl infective),4.42
+10037908,343,Rate and rhythm disorders NEC,4.38
+10027938,340,Mood alterations with depressive symptoms,4.35
+10007217,309,Carbohydrate tolerance analyses (incl diabetes),3.95
+10029306,302,Neurological signs and symptoms NEC,3.86
+10079102,286,Substance related and addictive disorders,3.66
+10017926,274,Gastrointestinal and abdominal pains (excl oral and throat),3.5
+10027678,271,Gastrointestinal signs and symptoms NEC,3.46
+10019233,254,Headaches NEC,3.25
+10013509,239,Disturbances in consciousness NEC,3.06
+10040470,230,Sexual desire disorders,2.94
+10021950,214,Inflammations,2.74
+10014068,214,Eating disorders NEC,2.74
+10033372,208,Pain and discomfort NEC,2.66
+10068757,206,Musculoskeletal and connective tissue pain and discomfort,2.63
+10022097,189,Injection site reactions,2.42
+10047110,176,Vascular tests NEC (incl blood pressure),2.25
+10028323,174,Muscle pains,2.22
+10021001,171,Hypoglycaemic conditions NEC,2.19
+10062913,166,Muscle weakness conditions,2.12
+10017948,159,Gastrointestinal disorders NEC,2.03
+10007609,147,Cardiac signs and symptoms NEC,1.88
+10044084,143,Total fluid volume decreased,1.83
+10023226,140,Joint related signs and symptoms,1.79
+10016097,139,Faecal abnormalities NEC,1.78
+10040993,137,Sleep disorders NEC,1.75
+10024581,132,Lipid metabolism and deposit disorders NEC,1.69
+10027948,127,Mood disorders NEC,1.62
+10002982,126,Apocrine and eccrine gland disorders,1.61
+10018006,119,Gastrointestinal spastic and hypermotility disorders,1.52
+10027428,118,Metabolic disorders NEC,1.51
+10020638,110,Hyperglycaemic conditions NEC,1.41
+10033920,107,Parasomnias,1.37
+10027654,97,Allergic conditions NEC,1.24
+10030975,97,Oral dryness and saliva altered,1.24
+10008651,93,Cholesterol analyses,1.19
+10027335,92,Menstruation and uterine bleeding NEC,1.18
+10049293,88,Pruritus NEC,1.12
+10087057,87,Hepatobiliary function diagnostic procedures,1.11
+10068758,86,Obsessive-compulsive disorders and symptoms,1.1
+10016951,84,Food malabsorption and intolerance syndromes (excl sugar intolerance),1.07
+10027375,84,Mental impairment (excl dementia and memory loss),1.07
+10049180,83,Alcohol product use,1.06
+10004209,80,Behaviour and socialisation disturbances,1.02
+10046313,80,Upper respiratory tract signs and symptoms,1.02
+10013980,79,Dyssomnias,1.01
+10030113,78,Oedema NEC,1.0
+10044085,76,Total fluid volume increased,0.97
+10034638,76,Peripheral vascular disorders NEC,0.97
+10012401,76,Depressive disorders,0.97
+10057181,74,Vascular hypotensive disorders,0.95
+10006334,73,Breathing abnormalities,0.93
+10009842,71,Cognitive and attention disorders and disturbances NEC,0.91
+10046591,69,Urinary tract signs and symptoms NEC,0.88
+10017950,68,Gastrointestinal dyskinetic disorders,0.87
+10068300,68,Panic attacks and disorders,0.87
+10028714,67,Narcolepsy and hypersomnia,0.86
+10003730,64,Attention deficit and disruptive behaviour disorders,0.82
+10012435,62,Dermatitis and eczema,0.79
+10021672,59,Increased physical activity levels,0.75
+10027341,58,Menstruation with decreased bleeding,0.74
+10001769,56,Alopecias,0.72
+10004995,56,Bladder and urethral symptoms,0.72
+10021562,54,Impulse control disorders,0.69
+10012776,52,Dietary and nutritional issues,0.66
+10047541,52,Visual disorders NEC,0.66
+10027700,49,Therapeutic procedures NEC,0.63
+10043434,47,Thinking disturbances,0.6
+10068299,45,Fear symptoms and phobic disorders (incl social phobia),0.58
+10052566,45,"Rashes, eruptions and exanthems NEC",0.58
+10040996,44,Sleep disturbances NEC,0.56
+10027603,44,Migraine headaches,0.56
+10019833,43,Hepatocellular damage and hepatitis NEC,0.55
+10077547,42,Somatic symptom disorders,0.54
+10016801,42,Fluid intake increased,0.54
+10027416,40,Metabolic acidoses (excl diabetic acidoses),0.51
+10005907,40,Body temperature altered,0.51
+10035035,39,Pilar disorders NEC,0.5
+10027342,39,Menstruation with increased bleeding,0.5
+10038148,39,Red blood cell analyses,0.5
+10044566,38,Tremor (excl congenital),0.49
+10016286,37,Febrile disorders,0.47
+10014419,36,Electrolyte imbalance NEC,0.46
+10013305,36,Erection and ejaculation conditions and disorders,0.46
+10038589,36,Reproductive hormone analyses,0.46
+10044657,35,Triglyceride analyses,0.45
+10037180,34,Psychiatric symptoms NEC,0.43
+10018034,34,"Gastrointestinal, pancreatic and APUD hormone analyses",0.43
+10034727,31,Personality disorders NEC,0.4
+10028394,31,Musculoskeletal and soft tissue tests NEC,0.4
+10000063,31,Abdominal findings abnormal,0.4
+10016798,30,Fluctuating mood symptoms,0.38
+10022398,30,Inner ear signs and symptoms,0.38
+10001438,30,Affect alterations NEC,0.38
+10022892,27,Investigations NEC,0.35
+10024606,27,Lipodystrophies,0.35
+10070967,24,Social issues NEC,0.31
+10000497,24,Acnes,0.31
+10080708,24,Visual impairment and blindness (excl colour blindness),0.31
+10022005,23,Influenza viral infections,0.29
+10040675,23,Breast disorders NEC,0.29
+10027362,23,Mental disorders NEC,0.29
+10046736,21,Urticarias,0.27
+10011168,21,Cortical dysfunction NEC,0.27
+10046309,21,Upper respiratory tract infections,0.27
+10017921,21,Gastrointestinal inflammatory disorders NEC,0.27
+10037759,20,Radiation injuries,0.26
+10012602,20,Diabetes mellitus (incl subtypes),0.26
+10027177,20,Memory loss (excl dementia),0.26
+10080711,20,Musculoskeletal and connective tissue conditions NEC,0.26
+10042600,20,Supraventricular arrhythmias,0.26
+10020774,19,Vascular hypertensive disorders NEC,0.24
+10030281,19,Olfactory nerve disorders,0.24
+10072989,18,Lacrimation disorders,0.23
+10052777,18,Abdominal wall conditions NEC,0.23
+10003284,18,Arthropathies NEC,0.23
+10024624,17,Lipoprotein and lipid tests NEC,0.22
+10052731,17,Nervous system therapeutic procedures NEC,0.22
+10034005,17,Parkinson's disease and parkinsonism,0.22
+10042454,17,Sugar intolerance (excl glucose intolerance),0.22
+10013929,16,Dyskinesias and movement disorders NEC,0.2
+10049179,16,Urinary tract function analyses NEC,0.2
+10038454,16,Renal function analyses,0.2
+10015151,16,Erythemas,0.2
+10027434,16,Metabolism tests NEC,0.2
+10065877,15,Dietary and nutritional therapies,0.19
+10040837,15,Skin dystrophies,0.19
+10034640,14,"Peripheral vasoconstriction, necrosis and vascular insufficiency",0.18
+10010301,14,Confusion and disorientation,0.18
+10002118,14,Anal and rectal signs and symptoms,0.18
+10022528,14,Interactions,0.18
+10036998,14,Protein analyses NEC,0.18
+10068761,14,Anxiety disorders NEC,0.18
+10001339,13,Adrenal cortex tests,0.17
+10017967,13,Abdominal and gastrointestinal infections,0.17
+10029285,13,Neurologic diagnostic procedures,0.17
+10028736,13,Nasal congestion and inflammations,0.17
+10043234,13,Tendon disorders,0.17
+10017854,13,Gastritis (excl infective),0.17
+10000196,12,Urinary abnormalities,0.15
+10017927,12,Gastrointestinal and hepatobiliary procedural complications,0.15
+10042459,12,Suicidal and self-injurious behaviour,0.15
+10038443,12,Renal failure and impairment,0.15
+10001737,12,"Allergies to foods, food additives, drugs and other chemicals",0.15
+10030032,11,Ocular disorders NEC,0.14
+10042211,11,Stress disorders,0.14
+10043905,11,Tobacco use,0.14
+10037555,11,Purpura and related conditions,0.14
+10027637,10,Mineral and electrolyte analyses,0.13
+10035777,10,Poisoning and toxicity,0.13
+10017963,10,Gastrointestinal and abdominal imaging procedures,0.13
+10034607,10,Peripheral neuropathies NEC,0.13
+10031021,9,Oral soft tissue signs and symptoms,0.12
+10024976,9,Lower respiratory tract signs and symptoms,0.12
+10029511,9,Non-site specific injuries NEC,0.12
+10002185,9,Analgesia supportive care,0.12
+10057196,9,Administration site reactions NEC,0.12
+10028685,9,Nail and nail bed conditions (excl infections and infestations),0.12
+10035089,9,Pituitary analyses anterior,0.12
+10057171,9,Disability issues,0.12
+10047283,9,Ventricular arrhythmias and cardiac arrest,0.12
+10013470,8,Dissociative states,0.1
+10040794,8,Skin and subcutaneous tissue therapeutic procedures NEC,0.1
+10044694,8,Trophic disorders,0.1
+10012981,8,Digestive enzymes,0.1
+10043692,8,Thyroid analyses,0.1
+10052559,8,Fluid intake decreased,0.1
+10008431,8,Chemistry analyses NEC,0.1
+10043891,8,Tissue enzyme analyses NEC,0.1
+10017578,8,Gait disturbances,0.1
+10041288,8,Soft tissue disorders NEC,0.1
+10027917,8,Mononeuropathies,0.1
+10013500,8,Disturbances in sleep phase rhythm,0.1
+10019972,7,Herpes viral infections,0.09
+10011233,7,Coughing and associated symptoms,0.09
+10028640,7,Myopathies,0.09
+10014693,7,Endocrine analyses and imaging NEC,0.09
+10020863,7,Hypertrichoses,0.09
+10042356,7,Skin and subcutaneous conditions NEC,0.09
+10052734,7,Psychiatric therapies,0.09
+10031086,7,Orgasmic disorders and disturbances,0.09
+10028288,7,"Muscle, tendon and ligament injuries",0.09
+10028731,7,Nasal disorders NEC,0.09
+10014476,7,Elevated cholesterol,0.09
+10047067,7,Non-site specific vascular disorders NEC,0.09
+10077550,6,Varicose veins NEC,0.08
+10040870,6,Skin hypoplasias and atrophies,0.08
+10029294,6,Neurological and psychiatric procedural complications,0.08
+10003839,6,Autonomic nervous system disorders,0.08
+10014486,6,Elevated triglycerides,0.08
+10052767,6,Breast signs and symptoms,0.08
+10020713,6,Hyperpigmentation disorders,0.08
+10037009,6,Protein metabolism disorders NEC,0.08
+10052776,6,Musculoskeletal and connective tissue infections and inflammations NEC,0.08
+10006006,6,Bone related signs and symptoms,0.08
+10006484,6,Bronchospasm and obstruction,0.08
+10053099,6,Gastrointestinal function diagnostic procedures,0.08
+10053171,6,Oesophagitis (excl infective),0.08
+10027699,6,Skin injuries NEC,0.08
+10028343,5,Muscle tone abnormalities,0.06
+10057184,5,Respiratory tract disorders NEC,0.06
+10082213,5,Perception disturbances NEC,0.06
+10057188,5,Site specific vascular disorders NEC,0.06
+10038478,5,Renal lithiasis,0.06
+10052725,5,Gynaecological therapeutic procedures NEC,0.06
+10030063,5,Ocular sensation disorders,0.06
+10052772,5,Lumbar spinal cord and nerve root disorders,0.06
+10065874,5,Psoriatic conditions,0.06
+10059674,5,Inborn errors of lipid metabolism,0.06
+10070968,5,Disorders of purine metabolism,0.06
+10028114,5,Mucosal findings abnormal,0.06
+10025198,5,Lymphatic system disorders NEC,0.06
+10007543,5,Cardiac disorders NEC,0.06
+10020666,5,Hyperlipidaemias NEC,0.06
+10022971,4,Iron deficiencies,0.05
+10021604,4,Inborn errors of carbohydrate metabolism (excl glucose),0.05
+10013307,4,Female gonadal function disorders,0.05
+10072984,4,Coordination and balance disturbances,0.05
+10033121,4,Ovarian and fallopian tube cysts and neoplasms,0.05
+10072982,4,Photosensitivity and photodermatosis conditions,0.05
+10041273,4,Sodium imbalance,0.05
+10022653,4,Intestinal haemorrhages,0.05
+10021902,4,Infections NEC,0.05
+10005049,4,Bladder infections and inflammations,0.05
+10007566,4,Cardiac function diagnostic procedures,0.05
+10046577,4,Urinary tract infections,0.05
+10014691,4,Endocrine abnormalities of gonadal function NEC,0.05
+10043411,4,Therapeutic drug monitoring analyses,0.05
+10067226,4,Psychiatric investigations,0.05
+10043296,4,Testicular and epididymal disorders NEC,0.05
+10009888,4,Colitis (excl infective),0.05
+10040466,4,Sexual arousal disorders,0.05
+10040489,4,Sexuality issues,0.05
+10025480,4,Malabsorption syndromes,0.05
+10018009,4,Gastrointestinal stenosis and obstruction NEC,0.05
+10000178,4,Abnormal sleep-related events,0.05
+10029318,4,Neuromuscular disorders NEC,0.05
+10028386,4,Musculoskeletal and soft tissue imaging procedures,0.05
+10047792,4,Vulvovaginal signs and symptoms,0.05
+10002113,4,Anal and rectal disorders NEC,0.05
+10000135,4,Abnormal food elimination,0.05
+10036451,3,Potassium imbalance,0.04
+10018987,3,Haemorrhages NEC,0.04
+10043741,3,Thyroid hypofunction disorders,0.04
+10015664,3,Exfoliative conditions,0.04
+10027299,3,Menopausal effects NEC,0.04
+10037514,3,Pupil disorders,0.04
+10055797,3,Gingival haemorrhages,0.04
+10068756,3,Withdrawal and rebound effects,0.04
+10027685,3,Joint related disorders NEC,0.04
+10020648,3,Hyperkeratoses,0.04
+10028342,3,Muscle tone abnormal,0.04
+10005536,3,Blood gas and acid base analyses,0.04
+10038267,3,Refractive and accommodative disorders,0.04
+10005742,3,Blood pressure disorders NEC,0.04
+10047834,3,Water and electrolyte analyses NEC,0.04
+10015542,3,Eustachian tube disorders,0.04
+10019281,3,Heart failures NEC,0.04
+10014700,3,Endocrine disorders NEC,0.04
+10008776,3,"Choroid and vitreous structural change, deposit and degeneration",0.04
+10027696,3,Reproductive tract disorders NEC (excl neoplasms),0.04
+10008636,3,Cholestasis and jaundice,0.04
+10047465,3,Viral infections NEC,0.04
+10042129,3,Stomatitis and ulceration,0.04
+10030045,3,"Ocular infections, inflammations and associated manifestations",0.04
+10040866,3,Skin hyperplasias and hypertrophies,0.04
+10031015,3,Oral soft tissue disorders NEC,0.04
+10029559,3,Non-site specific procedural complications,0.04
+10024445,3,"Lid, lash and lacrimal infections, irritations and inflammations",0.04
+10033646,3,Acute and chronic pancreatitis,0.04
+10057178,3,Osteoarthropathies,0.04
+10013322,3,Male gonadal function disorders,0.04
+10013357,3,Sexual function and fertility disorders NEC,0.04
+10044049,3,Dental pain and sensation disorders,0.04
+10015992,3,Eyelid movement disorders,0.04
+10064463,3,Special sense investigations NEC,0.04
+10002067,3,Anaemias NEC,0.04
+10039219,3,Rosaceas,0.04
+10015909,2,Eye and eyelid infections,0.03
+10057175,2,Mass conditions NEC,0.03
+10007134,2,Candida infections,0.03
+10041460,2,Speech and language abnormalities,0.03
+10041295,2,Soft tissue neoplasms benign NEC,0.03
+10057185,2,Nervous system disorders NEC,0.03
+10010722,2,"Conjunctival infections, irritations and inflammations",0.03
+10052828,2,Eosinophilic disorders,0.03
+10047938,2,White blood cell analyses,0.03
+10043712,2,Thyroid disorders NEC,0.03
+10007948,2,Central nervous system haemorrhages and cerebrovascular accidents,0.03
+10012437,2,Dermatitis ascribed to specific agent,0.03
+10012655,2,Diabetic complications NEC,0.03
+10008616,2,Cholecystitis and cholelithiasis,0.03
+10011879,2,Hearing losses,0.03
+10044645,2,Trigeminal disorders,0.03
+10013342,2,Ovarian and fallopian tube disorders NEC,0.03
+10053104,2,ECG investigations,0.03
+10043985,2,Tongue signs and symptoms,0.03
+10013376,2,Uterine disorders NEC,0.03
+10014477,2,Elevated cholesterol with elevated triglycerides,0.03
+10052737,2,Atopic disorders,0.03
+10043835,2,Tic disorders,0.03
+10043779,2,Acute and chronic thyroiditis,0.03
+10047627,2,Vitamin deficiencies NEC,0.03
+10043418,2,Thermal burns,0.03
+10019237,2,Healing abnormal NEC,0.03
+10017958,2,Non-site specific gastrointestinal haemorrhages,0.03
+10004938,2,Bipolar disorders,0.03
+10069785,2,Complications associated with device NEC,0.03
+10034823,2,Pharyngeal disorders (excl infections and neoplasms),0.03
+10034653,2,Peritoneal and retroperitoneal disorders,0.03
+10003057,2,Application site reactions,0.03
+10040898,2,Skin neoplasms benign,0.03
+10034057,2,Partial complex seizures,0.03
+10024094,2,Learning disorders,0.03
+10024385,2,Leukopenias NEC,0.03
+10002425,2,Angioedemas,0.03
+10025439,2,Magnesium metabolism disorders,0.03
+10030864,2,Ophthalmic function diagnostic procedures,0.03
+10074485,2,Bone and joint injuries NEC,0.03
+10076292,2,Overdoses NEC,0.03
+10079147,2,Product administration errors and issues,0.03
+10027666,2,Ear disorders NEC,0.03
+10001424,2,Adverse effect absent,0.03
+10001373,2,Adrenal medulla tests,0.03
+10027939,2,Mood alterations with manic symptoms,0.03
+10088574,2,Urinary tract lithiasis NEC,0.03
+10004047,2,Bacterial infections NEC,0.03
+10002700,2,Anterior pituitary hyperfunction,0.03
+10037163,2,Psoriatic arthropathies,0.03
+10019661,2,Hepatic enzymes and function abnormalities,0.03
+10006233,2,Breast disorders congenital,0.03
+10040759,2,Site specific injuries NEC,0.03
+10040743,2,Paranasal sinus disorders (excl infections and neoplasms),0.03
+10039912,2,Seizures and seizure disorders NEC,0.03
+10038997,2,Retroviral infections,0.03
+10039078,2,Rheumatoid arthropathies,0.03
+10038144,2,Red blood cell abnormal findings NEC,0.03
+10037252,2,Psychotic disorder NEC,0.03
+10006975,1,Calcium metabolism disorders,0.01
+10084510,1,Coronavirus infections,0.01
+10057187,1,Cell metabolism disorders NEC,0.01
+10052770,1,Coma states,0.01
+10006985,1,Caliciviral infections,0.01
+10082211,1,"Gingival disorders, signs and symptoms NEC",0.01
+10006555,1,Bullous conditions,0.01
+10006472,1,Respiratory tract and thoracic histopathology procedures,0.01
+10009193,1,Circulatory collapse and shock,0.01
+10052730,1,Drug withdrawal therapies,0.01
+10052739,1,Immunodeficiency disorders NEC,0.01
+10001475,1,Age related issues,0.01
+10002092,1,Anaesthesia and allied procedures,0.01
+10007962,1,Central nervous system vascular disorders NEC,0.01
+10077535,1,Anaphylactic and anaphylactoid responses,0.01
+10052774,1,Ligament disorders,0.01
+10008183,1,Cerebrospinal fluid tests (excl microbiology),0.01
+10069219,1,Product physical issues,0.01
+10074472,1,Connective tissue disorders NEC,0.01
+10006038,1,Borrelial infections,0.01
+10006000,1,Bone therapeutic procedures NEC,0.01
+10065878,1,Faecal analyses NEC,0.01
+10007772,1,Cataract conditions,0.01
+10072981,1,Cell marker analyses,0.01
+10002701,1,Anterior pituitary hypofunction,0.01
+10005133,1,Bleeding tendencies,0.01
+10053567,1,Coagulopathies,0.01
+10009728,1,Coagulation and bleeding analyses,0.01
+10028321,1,Muscle therapeutic procedures,0.01
+10010119,1,Communications disorders,0.01
+10031049,1,"Orbital infections, inflammations and irritations",0.01
+10019709,1,Hepatobiliary signs and symptoms,0.01
+10037573,1,Pustular conditions,0.01
+10021064,1,Hypopigmentation disorders,0.01
+10021404,1,Imaging procedures NEC,0.01
+10021421,1,Immune response protein analyses NEC,0.01
+10021477,1,Immunoglobulin analyses,0.01
+10036966,1,Prostatic neoplasms and hypertrophy,0.01
+10036959,1,"Prostatic signs, symptoms and disorders NEC",0.01
+10022979,1,Iron excess,0.01
+10023819,1,Laryngeal and adjacent sites disorders NEC (excl infections and neoplasms),0.01
+10023855,1,"Laryngeal spasm, oedema and obstruction",0.01
+10034572,1,Peripheral embolism and thrombosis,0.01
+10024379,1,Leukocytoses NEC,0.01
+10025101,1,Lower respiratory tract and lung infections,0.01
+10030315,1,Oncologic complications and emergencies,0.01
+10019338,1,Heat injuries (excl thermal burns),0.01
+10030196,1,Oesophageal stenosis and obstruction,0.01
+10026909,1,Maternal complications of pregnancy NEC,0.01
+10027300,1,Menopausal effects on the genitourinary tract,0.01
+10027361,1,Mental disorders due to a general medical condition NEC,0.01
+10029355,1,Neutropenias,0.01
+10027657,1,Autoimmune disorders NEC,0.01
+10027658,1,Bone disorders NEC,0.01
+10029292,1,Neurologic visual problems NEC,0.01
+10029111,1,Neoplasms unspecified malignancy and site unspecified NEC,0.01
+10027680,1,Genital and urinary tract disorders NEC,0.01
+10027698,1,Respiratory signs and symptoms NEC,0.01
+10027739,1,Mixed acid-base disorders,0.01
+10028004,1,Motor neurone diseases,0.01
+10028378,1,"Musculoskeletal and connective tissue deformities of skull, face and buccal cavity",0.01
+10019669,1,Hepatic fibrosis and cirrhosis,0.01
+10039513,1,Scaly conditions,0.01
+10010268,1,Conditions associated with abnormal gas exchange,0.01
+10043740,1,Thyroid hyperfunction disorders,0.01
+10010269,1,Conditions caused by cold,0.01
+10048260,1,Zinc disorders,0.01
+10047598,1,Vitamin analyses,0.01
+10047573,1,Visual pathway disorders,0.01
+10011085,1,Ischaemic coronary artery disorders,0.01
+10011907,1,Death and sudden death,0.01
+10047094,1,Vascular therapeutic procedures NEC,0.01
+10011975,1,Decreased physical activity levels,0.01
+10012326,1,Dental and oral soft tissue infections,0.01
+10012329,1,Dental surface disorders,0.01
+10046588,1,Urinary tract procedural complications,0.01
+10046512,1,Urinalysis NEC,0.01
+10044556,1,Fracture treatments (excl skull and spine),0.01
+10013360,1,Synovial disorders,0.01
+10043475,1,Thoracic musculoskeletal disorders,0.01
+10039782,1,Sebaceous gland disorders,0.01
+10014692,1,Endocrine abnormalities of puberty,0.01
+10015107,1,Epstein-Barr viral infections,0.01
+10016654,1,Fibrosis NEC,0.01
+10041544,1,Spinal cord and nerve root disorders NEC,0.01
+10041462,1,Speech articulation and rhythm disturbances,0.01
+10041461,1,Speech and language usage disturbances,0.01
+10017536,1,Fungal infections NEC,0.01
+10018013,1,Gastrointestinal therapeutic procedures NEC,0.01
+10018029,1,Haemorrhoids and gastrointestinal varices (excl oesophageal),0.01
+10040834,1,Skin and subcutaneous tissue disorders congenital NEC,0.01
+10018846,1,Haematological analyses NEC,0.01
+10040786,1,Skin structures and soft tissue infections,0.01
+10018847,1,Haematological disorders,0.01
+10040674,1,Reproductive tract signs and symptoms NEC,0.01
+10088575,1,Fertility analyses and other reproductive function procedures,0.01

@@ -1,0 +1,127 @@
+pt_code,n_users,pt_term,percent_users,soc_code,soc_term,soc_n_users
+10016256,1188,Fatigue,15.19,10018065.0,General disorders and administration site conditions,3213.0
+10048779,970,Energy increased,12.4,10018065.0,General disorders and administration site conditions,3213.0
+10025482,318,Malaise,4.06,10018065.0,General disorders and administration site conditions,3213.0
+10061218,208,Inflammation,2.66,10018065.0,General disorders and administration site conditions,3213.0
+10033371,148,Pain,1.89,10018065.0,General disorders and administration site conditions,3213.0
+10013709,144,Drug ineffective,1.84,10018065.0,General disorders and administration site conditions,3213.0
+10016322,130,Feeling abnormal,1.66,10018065.0,General disorders and administration site conditions,3213.0
+10074421,130,Exercise tolerance increased,1.66,10018065.0,General disorders and administration site conditions,3213.0
+10016326,120,Feeling cold,1.53,10018065.0,General disorders and administration site conditions,3213.0
+10051301,94,Exercise tolerance decreased,1.2,10018065.0,General disorders and administration site conditions,3213.0
+10022086,85,Injection site pain,1.09,10018065.0,General disorders and administration site conditions,3213.0
+10008531,74,Chills,0.95,10018065.0,General disorders and administration site conditions,3213.0
+10003549,58,Asthenia,0.74,10018065.0,General disorders and administration site conditions,3213.0
+10050200,56,Thirst decreased,0.72,10018065.0,General disorders and administration site conditions,3213.0
+10082201,48,Therapeutic product effect decreased,0.61,10018065.0,General disorders and administration site conditions,3213.0
+10030095,45,Oedema,0.58,10018065.0,General disorders and administration site conditions,3213.0
+10016334,44,Feeling hot,0.56,10018065.0,General disorders and administration site conditions,3213.0
+10019133,44,Hangover,0.56,10018065.0,General disorders and administration site conditions,3213.0
+10057040,40,Temperature intolerance,0.51,10018065.0,General disorders and administration site conditions,3213.0
+10048662,40,Insulin sparing effect,0.51,10018065.0,General disorders and administration site conditions,3213.0
+10021654,1921,Increased appetite / hunger / food craving / lack of satiety,24.56,10027433.0,Metabolism and nutrition disorders,2726.0
+10000188,186,Abnormal weight gain,2.38,10027433.0,Metabolism and nutrition disorders,2726.0
+10020993,163,Hypoglycaemia,2.08,10027433.0,Metabolism and nutrition disorders,2726.0
+10012174,143,Dehydration,1.83,10027433.0,Metabolism and nutrition disorders,2726.0
+10049238,143,Food aversion,1.83,10027433.0,Metabolism and nutrition disorders,2726.0
+10020710,120,Hyperphagia,1.53,10027433.0,Metabolism and nutrition disorders,2726.0
+10020674,88,Hypermetabolism,1.12,10027433.0,Metabolism and nutrition disorders,2726.0
+10016807,71,Fluid retention,0.91,10027433.0,Metabolism and nutrition disorders,2726.0
+10022489,68,Insulin resistance,0.87,10027433.0,Metabolism and nutrition disorders,2726.0
+10055164,64,Body fat disorder,0.82,10027433.0,Metabolism and nutrition disorders,2726.0
+10049040,61,Weight fluctuation,0.78,10027433.0,Metabolism and nutrition disorders,2726.0
+10001598,58,Alcohol intolerance,0.74,10027433.0,Metabolism and nutrition disorders,2726.0
+10036067,42,Polydipsia,0.54,10027433.0,Metabolism and nutrition disorders,2726.0
+10028813,907,Nausea,11.59,10017947.0,Gastrointestinal disorders,2542.0
+10010774,354,Constipation,4.53,10017947.0,Gastrointestinal disorders,2542.0
+10012735,345,Diarrhoea,4.41,10017947.0,Gastrointestinal disorders,2542.0
+10000060,331,Abdominal distension,4.23,10017947.0,Gastrointestinal disorders,2542.0
+10000081,224,Abdominal pain,2.86,10017947.0,Gastrointestinal disorders,2542.0
+10015137,218,Eructation,2.79,10017947.0,Gastrointestinal disorders,2542.0
+10017885,215,Gastrooesophageal reflux disease,2.75,10017947.0,Gastrointestinal disorders,2542.0
+10047700,206,Vomiting,2.63,10017947.0,Gastrointestinal disorders,2542.0
+10013946,174,Dyspepsia,2.22,10017947.0,Gastrointestinal disorders,2542.0
+10000059,166,Abdominal discomfort,2.12,10017947.0,Gastrointestinal disorders,2542.0
+10017944,154,Gastrointestinal disorder,1.97,10017947.0,Gastrointestinal disorders,2542.0
+10021518,124,Impaired gastric emptying,1.59,10017947.0,Gastrointestinal disorders,2542.0
+10016766,102,Flatulence,1.3,10017947.0,Gastrointestinal disorders,2542.0
+10013781,92,Dry mouth,1.18,10017947.0,Gastrointestinal disorders,2542.0
+10000133,78,Abnormal faeces,1.0,10017947.0,Gastrointestinal disorders,2542.0
+10074859,53,Faeces soft,0.68,10017947.0,Gastrointestinal disorders,2542.0
+10017367,49,Frequent bowel movements,0.63,10017947.0,Gastrointestinal disorders,2542.0
+10022437,475,Insomnia,6.07,10037175.0,Psychiatric disorders,2367.0
+10002855,301,Anxiety,3.85,10037175.0,Psychiatric disorders,2367.0
+10002511,206,Anhedonia,2.63,10037175.0,Psychiatric disorders,2367.0
+10015535,188,Euphoric mood,2.4,10037175.0,Psychiatric disorders,2367.0
+10004716,140,Binge eating,1.79,10037175.0,Psychiatric disorders,2367.0
+10024419,134,Libido decreased,1.71,10037175.0,Psychiatric disorders,2367.0
+10002942,111,Apathy,1.42,10037175.0,Psychiatric disorders,2367.0
+10027940,105,Mood altered,1.34,10037175.0,Psychiatric disorders,2367.0
+10040984,101,Sleep disorder,1.29,10037175.0,Psychiatric disorders,2367.0
+10000125,78,Abnormal dreams,1.0,10037175.0,Psychiatric disorders,2367.0
+10022998,75,Irritability,0.96,10037175.0,Psychiatric disorders,2367.0
+10024421,70,Libido increased,0.89,10037175.0,Psychiatric disorders,2367.0
+10013663,69,Drug dependence,0.88,10037175.0,Psychiatric disorders,2367.0
+10012378,68,Depression,0.87,10037175.0,Psychiatric disorders,2367.0
+10001639,66,Alcoholism,0.84,10037175.0,Psychiatric disorders,2367.0
+10012374,65,Depressed mood,0.83,10037175.0,Psychiatric disorders,2367.0
+10033664,64,Panic attack,0.82,10037175.0,Psychiatric disorders,2367.0
+10011971,64,Decreased interest,0.82,10037175.0,Psychiatric disorders,2367.0
+10083622,64,Attention deficit hyperactivity disorder,0.82,10037175.0,Psychiatric disorders,2367.0
+10038743,59,Restlessness,0.75,10037175.0,Psychiatric disorders,2367.0
+10062519,52,Poor quality sleep,0.66,10037175.0,Psychiatric disorders,2367.0
+10067530,47,Hyposomnia,0.6,10037175.0,Psychiatric disorders,2367.0
+10076595,43,Substance dependence,0.55,10037175.0,Psychiatric disorders,2367.0
+10029897,41,Obsessive thoughts,0.52,10037175.0,Psychiatric disorders,2367.0
+10057852,41,Nicotine dependence,0.52,10037175.0,Psychiatric disorders,2367.0
+10049119,40,Emotional distress,0.51,10037175.0,Psychiatric disorders,2367.0
+10002647,40,Anorexia and bulimia syndrome,0.51,10037175.0,Psychiatric disorders,2367.0
+10019303,374,Heart rate increased,4.78,10022891.0,Investigations,1534.0
+10047899,305,Weight increased,3.9,10022891.0,Investigations,1534.0
+10005555,165,Blood glucose decreased,2.11,10022891.0,Investigations,1534.0
+10005734,126,Blood pressure decreased,1.61,10022891.0,Investigations,1534.0
+10019299,83,Heart rate,1.06,10022891.0,Investigations,1534.0
+10005424,61,Blood cholesterol decreased,0.78,10022891.0,Investigations,1534.0
+10005557,56,Blood glucose increased,0.72,10022891.0,Investigations,1534.0
+10082111,49,Heart rate variability decreased,0.63,10022891.0,Investigations,1534.0
+10005558,45,Blood glucose normal,0.58,10022891.0,Investigations,1534.0
+10019211,237,Headache,3.03,10029205.0,Nervous system disorders,1513.0
+10013573,177,Dizziness,2.26,10029205.0,Nervous system disorders,1513.0
+10053552,162,Allodynia,2.07,10029205.0,Nervous system disorders,1513.0
+10020568,161,Hyperaesthesia,2.06,10029205.0,Nervous system disorders,1513.0
+10013911,127,Dysgeusia,1.62,10029205.0,Nervous system disorders,1513.0
+10041349,122,Somnolence,1.56,10029205.0,Nervous system disorders,1513.0
+10033775,106,Paraesthesia,1.35,10029205.0,Nervous system disorders,1513.0
+10024264,88,Lethargy,1.12,10029205.0,Nervous system disorders,1513.0
+10088940,73,Brain fog,0.93,10029205.0,Nervous system disorders,1513.0
+10020765,67,Hypersomnia,0.86,10029205.0,Nervous system disorders,1513.0
+10057668,65,Cognitive disorder,0.83,10029205.0,Nervous system disorders,1513.0
+10006784,56,Burning sensation,0.72,10029205.0,Nervous system disorders,1513.0
+10013886,54,Dysaesthesia,0.69,10029205.0,Nervous system disorders,1513.0
+10036653,45,Presyncope,0.58,10029205.0,Nervous system disorders,1513.0
+10028311,317,Muscle hypertrophy,4.05,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10028411,167,Myalgia,2.13,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10028289,153,Muscle atrophy,1.96,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10028372,143,Muscular weakness,1.83,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10003239,129,Arthralgia,1.65,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10028391,111,Musculoskeletal pain,1.42,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10049565,100,Muscle fatigue,1.28,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10056720,59,Muscle mass,0.75,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10003988,45,Back pain,0.58,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10033425,40,Pain in extremity,0.51,10028395.0,Musculoskeletal and connective tissue disorders,1125.0
+10081765,110,Sensitive skin,1.41,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10037087,86,Pruritus,1.1,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10020642,73,Hyperhidrosis,0.93,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10057064,61,Skin laxity,0.78,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10054786,55,Skin burning sensation,0.7,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10001760,50,Alopecia,0.64,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10070835,48,Skin sensitisation,0.61,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10029410,41,Night sweats,0.52,10040785.0,Skin and subcutaneous tissue disorders,776.0
+10043071,294,Tachycardia,3.76,10007541.0,Cardiac disorders,465.0
+10033557,146,Palpitations,1.87,10007541.0,Cardiac disorders,465.0
+10021097,64,Hypotension,0.82,10047065.0,Vascular disorders,199.0
+10060800,57,Hot flush,0.73,10047065.0,Vascular disorders,199.0
+10048921,60,Alcohol use,0.77,10041244.0,Social circumstances,174.0
+10029446,53,Nocturia,0.68,10038359.0,Renal and urinary disorders,139.0
+10020751,96,Hypersensitivity,1.23,10021428.0,Immune system disorders,113.0
+10047513,44,Vision blurred,0.56,10015919.0,Eye disorders,109.0

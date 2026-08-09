@@ -1,0 +1,21 @@
+pt_code_1,pt_code_2,pt_term_1,pt_term_2,n_users,percent_users
+10021654,10048779,Increased appetite,Energy increased,287,3.67
+10016256,10021654,Fatigue,Increased appetite,278,3.55
+10016256,10028813,Fatigue,Nausea,244,3.12
+10016256,10048779,Fatigue,Energy increased,233,2.98
+10021654,10056465,Increased appetite,Food craving,217,2.77
+10021654,10028813,Increased appetite,Nausea,178,2.28
+10020466,10021654,Hunger,Increased appetite,154,1.97
+10016256,10022437,Fatigue,Insomnia,153,1.96
+10028813,10048779,Nausea,Energy increased,135,1.73
+10048779,10056465,Energy increased,Food craving,133,1.7
+10021654,10047899,Increased appetite,Weight increased,132,1.69
+10021654,10022437,Increased appetite,Insomnia,125,1.6
+10016256,10025482,Fatigue,Malaise,118,1.51
+10016256,10056465,Fatigue,Food craving,116,1.48
+10022437,10048779,Insomnia,Energy increased,109,1.39
+10028813,10047700,Nausea,Vomiting,99,1.27
+10016256,10019303,Fatigue,Heart rate increased,96,1.23
+10012735,10028813,Diarrhoea,Nausea,95,1.21
+10010774,10016256,Constipation,Fatigue,94,1.2
+10025482,10028813,Malaise,Nausea,90,1.15

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+
+# Raw or intermediate Reddit text data are not intended for public release.
+data/
+batch_jobs/
+se_batch_jobs/
+
+# Local MedDRA terminology files must be obtained under license.
+MedAscii/
+MedDRA*/
+
+# Large local logs or scratch files.
+*.log
+*.tmp

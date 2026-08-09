@@ -1,0 +1,283 @@
+meddra_concept,frequency,pt_code
+Appetite increased,630,10021654
+Appetite decreased,322,10061428
+Craving,89,10056465
+Metabolism increased,51,10020674
+Muscle strength increased,42,10028311
+Muscle mass increased,32,10028311
+Increased heart rate,31,10019303
+Cholesterol decreased,28,10005424
+Influenza-like illness,27,10022000
+Alertness increased,23,10048533
+Muscular hypertrophy,23,10028311
+Decreased libido,21,10024419
+Muscular strength increased,18,10028311
+Glycated hemoglobin decreased,18,10018884
+Muscular atrophy,17,10028289
+Gastro-oesophageal reflux disease,15,10017885
+Mood improved,14,10015535
+Binge eating disorder,12,10004716
+Substance craving,12,10013663
+Metabolic abnormality,12,10058097
+Muscle mass decreased,11,10028289
+Decreased exercise tolerance,11,10051301
+Abdominal cramping,11,10000081
+Infrequent bowel,11,10059158
+Gastrointestinal motility decreased,10,10052105
+Skin sensitivity,10,10081765
+Muscle strength decreased,10,10028289
+Gastric emptying delayed,9,10021518
+Improved mood,8,10015535
+Glycated haemoglobin decreased,8,10018884
+Decreased heart rate variability,7,10082111
+Impulsivity,7,10061215
+Impulse control disorder,7,10061215
+Postprandial fullness,6,10013946
+Lean body mass increased,6,10028311
+Obsessive-compulsive,6,10029898
+Smoking cessation,6,10065386
+Hip pain,5,10003239
+Skin hyperesthesia,5,10020568
+Fatigue decreased,5,10048779
+Alcohol aversion,5,10001598
+Compulsive behavior,5,10029898
+Haemoglobin A1c decreased,5,10018482
+Urgency of defecation,5,10012110
+Tobacco craving,5,10057852
+Sleep quality decreased,5,10062519
+Prolonged menstruation,4,10085423
+Calmness,4,10016352
+Panic,4,10002855
+Interstitial cystitis,4,10011796
+Delayed menstruation,4,10027336
+Gastrointestinal symptoms,4,10017944
+Skin odour,4,10040904
+Compulsive behaviour,4,10029898
+Skin hypersensitivity,4,10081765
+Decreased thirst,4,10050200
+Insulin decreased,4,10005613
+Hyperpigmentation,4,10040865
+Attention increased,3,
+Gastrointestinal disorders,3,10017944
+Basal metabolic rate increased,3,
+Cold extremity,3,10034568
+Body weight increased,3,10047899
+Increased metabolism,3,10020674
+Compulsive buying,3,10067948
+Intra-abdominal gas,3,10000060
+Attention deficit,3,10083622
+hypermotility,3,10052402
+Reduced exercise tolerance,3,10051301
+Mid insomnia,3,10027590
+Gastrointestinal motility increased,2,10052402
+Metabolism decreased,2,10058097
+Impaired glucose tolerance,2,10018429
+Hypobicarbonataemia,2,10005359
+Impaired concentration,2,10013496
+Glycogen decreased,2,10005555
+Ankle pain,2,10003239
+Pain in buttock,2,10028391
+Skin tightening,2,10050637
+Alcohol dependence,2,10001639
+Generalized pain,2,10058826
+Cholesterol level decreased,2,10005424
+Decreased gastrointestinal motility,2,10052105
+Self-injurious behavior,2,10022524
+Decreased fluid intake,2,10014412
+Sleep duration decreased,2,10022437
+Insulin secretion decreased,2,10005613
+Sensitivity,2,10020568
+Faecal urgency,2,10012110
+Feeling of heaviness,2,10000060
+Dreams,2,10000125
+Hemoglobin A1c decreased,2,10018884
+Impulsiveness,2,10021567
+Aural fullness,2,10079904
+Muscle tone increased,2,10028311
+Urge to smoke,2,10057852
+Alertness,2,10048533
+Borborigmus,2,10067715
+Delayed Menstruation,2,10027336
+Insulin level increased,2,10005614
+Motivation decreased,2,10002942
+Insulin level decreased,2,10005613
+Skin fissuring,2,10040849
+Non-alcoholic fatty liver disease,2,10090857
+Increased respiratory rate,2,10038712
+sensitivity,2,10020568
+Glycogen increased,2,10005557
+Increased heart rate variability,2,10082110
+Hypermotility,2,10052402
+Reduced rapid eye movement sleep,1,10037841
+Urgency of defaecation,1,10012110
+Alloknesis,1,10012434
+Diabetes mellitus control inadequate,1,10012607
+Intestinal motility increased,1,10052402
+post-injection reaction,1,10067142
+Ingrown nail,1,10022013
+Skin picking,1,10065701
+Lack of energy,1,10003549
+Abnormal bowel habits,1,10079938
+Hyperketonemia,1,10000410
+Anxiety increased,1,10002855
+Urinary bladder spasm,1,10048994
+Decreased urine flow,1,10046640
+Low self-esteem,1,10050280
+Blood glucose normalised,1,10005558
+Increased susceptibility to infection,1,10021866
+Severe pain,1,10033371
+Ocular discharge,1,10015915
+Disease remission,1,10091804
+Emotional indifference,1,10002942
+Increased body temperature,1,10005911
+Fatty acid oxidation,1,10077951
+Increased defecation frequency,1,10017367
+Delayed onset muscle soreness,1,10028411
+Postural dizziness,1,10013578
+Gastrointestinal feeling of fullness,1,10000060
+Pain radiating,1,10033371
+Forearm pain,1,10003239
+Thought content abnormal,1,10043431
+Inattention,1,10083622
+Menstrual cycle lengthened,1,10030295
+Abdominal fat increased,1,10016251
+Bowel habit changes,1,10079938
+Wrinkling of skin,1,10040954
+Triglycerides level decreased,1,10005838
+Reverse triiodothyronine increased,1,10044596
+Hyperferraemia,1,10018872
+Vasovagal syncope,1,10042772
+Hyperferremia,1,10005620
+Decreased satiety,1,10021654
+Hypopigmentation,1,10040868
+Frequent defaecation,1,10017367
+Abnormal fat distribution,1,10049287
+Inflammatory marker,1,10069826
+Gastroenterostophageal reflux disease,1,10017885
+Borborhygmus,1,10067715
+Gastric retention,1,10021518
+Increased defecation,1,10017367
+Decreased heart rate,1,10019301
+Post-injection reaction,1,10067142
+Penile atrophy,1,10072006
+Fat distribution abnormal,1,10049287
+electrolytes decreased,1,10014418
+Tooth sensitivity,1,10082426
+Guilt feelings,1,10049708
+Thyroid hormone levels increased,1,10063161
+Abnormal stool,1,10000133
+Alkaline phosphatase decreased,1,10059569
+Ear pressure,1,10079904
+Fecal urgency,1,10012110
+Increased cortisol,1,10011207
+Bowel habit increased,1,10017367
+Affect blunting,1,10005885
+Altered bowel habits,1,10000133
+Change in bowel habit,1,10000133
+Delayed menstrual period,1,10027336
+Pressured speech,1,10036649
+Increased energy,1,10048779
+Decreased blood glucose,1,10005555
+Altered mental status,1,10001854
+Delayed healing,1,10021519
+Varices,1,10046996
+Impaired Cognition,1,10057668
+Substance use increased,1,10070964
+Loss of control of eating,1,10004716
+Hormone level fluctuation,1,10061210
+Dyskgeusia,1,10013911
+Vomiting fileciteturn18,1,10047700
+Ageing,1,10063493
+Gastric emptying delay,1,10021518
+Lipid profile decreased,1,10005424
+Menstrual irregularities,1,10027327
+Bilirubin decreased,1,10049869
+Liver enzyme decreased,1,10060794
+Penile erection,1,10049118
+Alcohol consumption increased,1,10001639
+Pain on defecation,1,10051244
+Faeces abnormal,1,10000133
+Inability to walk,1,10017581
+Increased gastrointestinal motility,1,10052402
+Postherpetic neuralgia,1,10036376
+Increased serum ferritin,1,10040250
+Increased serum iron,1,10005620
+Menstrual flow decreased,1,10021033
+Fluctuation in blood glucose,1,10049803
+Abnormal stool color,1,10016100
+Decreased muscle mass,1,10028289
+Delayed ejaculation,1,10014325
+Hyper aesthesia,1,10020568
+Cannabis craving,1,10013663
+Migratory pain,1,10033371
+Guilt feeling,1,10049708
+Faeces odour abnormal,1,10000133
+Polycystic ovary syndrome,1,10036049
+Total cholesterol decreased,1,10005424
+Foreign body sensation,1,10061549
+Intestinal motility disorder,1,10061173
+Heaviness sensation,1,10013082
+Nonrestorative sleep,1,10062519
+Restless sleep,1,10062519
+Osmidrosis,1,10055000
+Sleep fragmentation,1,10062519
+Thumb pain,1,10033425
+Feeling of impending doom,1,10002855
+Caffeine intolerance,1,10074895
+Hard stool,1,10016101
+Autoantibody decreased,1,10021497
+Prolonged bleeding,1,10005140
+Mood alteration,1,10027940
+Guilt,1,10049708
+Glucose uptake increased,1,10005557
+Insulin requirement decreased,1,10052340
+Increased histamine,1,10060051
+Glycated hemoglobin increased,1,10018484
+Diuresis increased,1,10036142
+Aging,1,10063493
+Dry lip,1,10024552
+Postprandial blood glucose decreased,1,10005555
+Dopamine decreased,1,10002511
+Overeating,1,10004716
+Fat metabolism disorder,1,10061227
+Diabetes mellitus type 2,1,10067585
+Nail thickening,1,10028694
+Mood changes,1,10027940
+Night eating,1,10067315
+Increased testosterone,1,10005815
+Abnormal blood glucose,1,10005554
+Feeling of impending death,1,10002855
+Insulin-like growth factor 1 increased,1,10059596
+Freckling,1,10014970
+Body image disturbance,1,10052793
+Globus sensation,1,10061549
+Glycated haemoglobin increased,1,10018484
+Impaired attention,1,10013496
+Light-headedness,1,10013573
+Facial oedema,1,10016029
+Abnormal body odour,1,10040904
+Gallstone,1,10008629
+Fluctuation in body weight,1,10049040
+Resting heart rate decreased,1,10019301
+Decreased HDL cholesterol,1,10020060
+Increased low density lipoprotein cholesterol,1,10024910
+Affective flattening,1,10016759
+hyperpigmentation,1,10040865
+Weight fluctuating,1,10049040
+Muscular fatigue,1,10049565
+Taste aversion,1,10049238
+Feeling distressed,1,10049119
+Reduced heart rate variability,1,10082111
+Intolerance to lactose,1,10023681
+Walking impairment,1,10017577
+Application site papule,1,10049043
+Increased mean corpuscular hemoglobin,1,10027004
+Increased mean corpuscular hemoglobin concentration,1,10027004
+Psychomotor slowing,1,10037213
+Comedones,1,10000496
+Urgency of faeces,1,10012110
+Facial atrophy,1,10073006
+Obsessive-compulsive symptoms,1,10029898
+Abnormal faeces odour,1,10000133
+Gastric distension,1,10000060
+Citrate synthase increased,1,10072234
