@@ -2,9 +2,9 @@
 
 This repository contains release code for:
 
-> Self-Reported Side Effects Among Reddit Users Taking Nonapproved Retatrutide
+> Self-Reported Adverse Effects Among Social Media Users Taking Nonapproved Retatrutide
 >
-> Neil K. R. Sehgal, ME; Jena Shaw Tronieri, PhD; Benjamin Rader, PhD; Lyle Ungar, PhD; Sharath Chandra Guntuku, PhD.
+> Neil K. R. Sehgal, ME, MS; Jena Shaw Tronieri, PhD; Benjamin Rader, PhD, MPH; Lyle Ungar, PhD; Sharath Chandra Guntuku, PhD.
 
 ## Overview
 
